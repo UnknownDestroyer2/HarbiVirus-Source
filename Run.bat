@@ -1,1 +1,1 @@
-start main1.py
+start question.pyw
