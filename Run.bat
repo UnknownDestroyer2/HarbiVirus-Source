@@ -1,1 +1,1 @@
-start main1.pyw
+start main1.py
